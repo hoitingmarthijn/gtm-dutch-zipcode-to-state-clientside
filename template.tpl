@@ -12,6 +12,7 @@ ___INFO___
   "type": "MACRO",
   "id": "cvt_temp_public_id",
   "version": 1,
+  "categories": ["UTILITY","ANALYTICS","TAG_MANAGEMENT"],  
   "securityGroups": [],
   "displayName": "Dutch Zipcode (Postcode) to State or Region (Provincie)",
   "description": "Based on the first 4 digits of a dutch zipcode the state, region or province in the Netherlands will be returned.",
