@@ -1,4 +1,4 @@
-# GTM Dutch Zipcode to State Client side
+# GTM Dutch Zipcode to State, Region or Province Client side
 You can use this variable to get the state based on the zipcode provided. This is based on this list on Wikipedia https://nl.wikipedia.org/wiki/Postcodes_in_Nederland . Some Zipcodes are cross state border.
 
 ## Using the variable template
